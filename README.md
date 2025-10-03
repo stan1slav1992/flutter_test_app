@@ -29,5 +29,5 @@ This project is a test assignment. The goal is to demonstrate working with **flu
 
 1. Clone repository:
    ```bash
-   git clone https://github.com/yourusername/prompt_generator.git
+   git clone https://github.com/stan1slav1992/flutter_test_app.git
    cd prompt_generator
