@@ -20,7 +20,7 @@ This project is a test assignment. The goal is to demonstrate working with **flu
 ---
 
 ## 🎥 Demo Video
-👉 [Link to demo screencast](https://your-link-here.com)  
+👉 [Link to demo screencast](https://youtube.com/shorts/WvAColz_js4?feature=share)  
 *(30–40 sec showing: entering prompt → loader → image → retry → error → new prompt with saved text)*
 
 ---
